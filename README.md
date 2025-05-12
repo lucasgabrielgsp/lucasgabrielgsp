@@ -1,7 +1,7 @@
 <h1 align="center">Hey everyone! 👋 I'm Lucas Santos</h1>
 
 <div align="center">
-  <h3 align="center">Principal Full Stack Developer | Web3 Enthusiast</h3>
+  <h3 align="center">Senior Full Stack Developer | Web3 Enthusiast</h3>
   <div align='center' style='display:inline-block;margin-bottom:15px'>
 <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
