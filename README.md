@@ -1,4 +1,4 @@
-<h1 align="center">Hey everyone! 👋 I'm Lucas Santos</h1>
+<h1 align="center">Hey everyone! 👋 I'm Lucas Paz</h1>
 
 <div align="center">
   <h3 align="center">Senior Full Stack Developer | Web3 Enthusiast</h3>
